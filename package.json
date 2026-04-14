@@ -1,0 +1,26 @@
+{
+  "name": "mtm6404-contact-book-react",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@tailwindcss/vite": "^4.2.2",
+    "firebase": "^12.12.0",
+    "lucide-react": "^1.8.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^7.14.0",
+    "tailwindcss": "^4.2.2"
+  },
+  "devDependencies": {
+    "@types/react": "^18.0.24",
+    "@types/react-dom": "^18.0.8",
+    "@vitejs/plugin-react": "^6.0.1",
+    "vite": "^8.0.8"
+  }
+}
